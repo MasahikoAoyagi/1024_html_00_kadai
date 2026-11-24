@@ -6,7 +6,7 @@
 - 私は初学者ですので、独力でチーズアカデミーを再現するのは厳しかったです
 
 ## ③アプリのデプロイURL
-https://masahikoaoyagi.github.io/1107_GitHub_02_kadai/
+https://masahikoaoyagi.github.io/1024_html_00_kadai/
 
 ## ④工夫した点・こだわった点
 - チーズアカデミーを仕様書通りに再現すること
